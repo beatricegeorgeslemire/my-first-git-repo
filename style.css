@@ -22,3 +22,12 @@ h1, h2 {
 p {
     color: skyblue;
 }
+
+button {
+    padding: 20px 10px;
+    background-color: greenyellow;
+}
+
+button:hover {
+    background-color: white;
+}
